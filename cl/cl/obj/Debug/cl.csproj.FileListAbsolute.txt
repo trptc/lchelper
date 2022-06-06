@@ -1,0 +1,13 @@
+F:\intellij_project\trptc\cl\cl\bin\Debug\cl.exe.config
+F:\intellij_project\trptc\cl\cl\bin\Debug\cl.exe
+F:\intellij_project\trptc\cl\cl\bin\Debug\cl.pdb
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.csproj.AssemblyReference.cache
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.csproj.SuggestedBindingRedirects.cache
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.Form1.resources
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.Properties.Resources.resources
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.csproj.GenerateResource.cache
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.csproj.CoreCompileInputs.cache
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.exe
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.pdb
+F:\intellij_project\trptc\cl\cl\bin\Debug\Siticone.Desktop.UI.dll
+F:\intellij_project\trptc\cl\cl\obj\Debug\cl.csproj.CopyComplete
